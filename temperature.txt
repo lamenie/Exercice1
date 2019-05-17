@@ -1,4 +1,4 @@
 TITRE : Températures journalieres
 
-2019-05-16 : 15°C / minimal 4°C
-2019-05-17 : 12°C / minimal 2°C
+2019-05-16 : 15°C / minimale 4°C
+2019-05-17 : 12°C / minimale 2°C
